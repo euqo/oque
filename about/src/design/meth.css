@@ -1,4 +1,14 @@
- .section {
+@font-face {
+  font-family: "GTAmerica";
+  src: url("/stuff/fonts/GTAmerica-Bold.ttf");
+}
+
+body {
+  margin: 0;
+  font-family: "GTAmerica";
+}
+
+.section {
    display: none;
    padding: 15px;
    background: #f4f4f4;
