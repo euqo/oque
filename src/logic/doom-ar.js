@@ -1,3 +1,3 @@
 function openPage() {
-  window.location.href = "doomsday.html";
+  window.location.href = "index.html";
 }
