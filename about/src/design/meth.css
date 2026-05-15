@@ -1,6 +1,6 @@
 @font-face {
   font-family: "GTAmerica";
-  src: url("/stuff/fonts/GTAmerica-Bold.ttf");
+  src: url("../../../stuff/fonts/GTAmerica-Bold.ttf") format("truetype");
 }
 
 body {
